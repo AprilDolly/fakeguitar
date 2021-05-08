@@ -1,10 +1,12 @@
 <control>
 label_cc15=Vibrato_Amp
-set_cc15=50
+set_cc15=0
 label_cc16=Vibrato_Freq
-set_cc16=10
+set_cc15=10
 label_cc17=Release_Vol
 set_cc17=127
+set_cc7=127
+set_cc11=127
 
 <master>
 //pitchlfo_fade=0.3
